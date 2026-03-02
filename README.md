@@ -20,7 +20,10 @@ Technical research documentation covering:
 
 ---
 
-MIT License 
+## License
+
+This Project is under [MIT License](LICENSE)
+
 
 *Disclaimer: All financial research is for educational purposes only.*
 
