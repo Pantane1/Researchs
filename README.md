@@ -8,8 +8,7 @@ Technical research documentation covering:
 - Backend Architecture
 - Experimental Software Projects
 
-Author: Pantane  
-Website: https://nf-d.netlify.app
+**Author: [Pantane](https://nf-d.netlify.app)**
 
 ---
 
@@ -21,12 +20,6 @@ Website: https://nf-d.netlify.app
 
 ---
 
-## License
- 
 MIT License 
 
----
-
-## Disclaimer
-
-All financial research is for educational purposes only.
+*Disclaimer: All financial research is for educational purposes only.*
