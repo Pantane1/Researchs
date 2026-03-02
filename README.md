@@ -23,3 +23,11 @@ Technical research documentation covering:
 MIT License 
 
 *Disclaimer: All financial research is for educational purposes only.*
+
+<p align="center">
+  <a href="https://nf-d.netlify.app">**[#denjagidev](nf-d.netlify.app)**</a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ACAF50&center=true&vCenter=true&multiline=false&lines=Built+Different" alt="pantane"></a>
+</p>
