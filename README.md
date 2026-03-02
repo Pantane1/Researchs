@@ -25,7 +25,7 @@ MIT License
 *Disclaimer: All financial research is for educational purposes only.*
 
 <p align="center">
-  <a href="https://nf-d.netlify.app">**[#denjagidev](nf-d.netlify.app)**</a>
+  <a href="https://nf-d.netlify.app">#denjagidev</a>
 </p>
 
 <p align="center">
