@@ -1,0 +1,23 @@
+.blog-content {
+  max-width: 900px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.blog-content h1, .blog-content h2, .blog-content h3 {
+  color: #0b0c10;
+}
+
+pre {
+  background: #f1f1f1;
+  padding: 1rem;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+code {
+  font-family: monospace;
+}
